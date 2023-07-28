@@ -4,11 +4,12 @@
   <name>rione_interfaces</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="rione.home@gmail.com">Ri-one</maintainer>
+  <maintainer email="rione.homeleague@gmail.com">Ri-one</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
+  <depend>std_msgs</depend>
   <depend>rosidl_default_generators</depend>
   <member_of_group>rosidl_interface_packages</member_of_group>
 

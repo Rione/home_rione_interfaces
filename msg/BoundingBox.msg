@@ -1,0 +1,10 @@
+string name
+float32 confidence
+uint32 xmin
+uint32 ymin
+uint32 xmax
+uint32 ymax
+uint32 xmid
+uint32 ymid
+uint32 width
+uint32 height
